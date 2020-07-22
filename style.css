@@ -8,3 +8,10 @@
 .area_css{
     height: 350px;
 }
+text{
+    font-size: large;
+    color: blue;
+}
+img{
+    width: 100px;
+}
